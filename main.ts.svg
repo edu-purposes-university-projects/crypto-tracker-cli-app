@@ -1,0 +1,3985 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+                <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+                width="1750" height="8627" shape-rendering="optimizeSpeed">
+                
+            <g>
+                <rect x="50" y="80"
+            width="180.4" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="80" x2="55" y2="110"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="225.4" y1="80" x2="225.4" y2="110"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;axios&quot;</title>
+            <text x="70" y="100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="100">import from&quot;axios&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="128.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>axios</title>
+            <text x="102" y="148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="148.5">axios</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="192"
+            width="274" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="192" x2="55" y2="222"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="319" y1="192" x2="319" y2="222"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;readline/promises&quot;</title>
+            <text x="70" y="212"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="212">import from&quot;readline/promises&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="240.5"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>readline</title>
+            <text x="102" y="260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="260.5">readline</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="304"
+            width="235" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="304" x2="55" y2="334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="280" y1="304" x2="280" y2="334"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;node:process&quot;</title>
+            <text x="70" y="324"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="324">import from&quot;node:process&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="352.5"
+            width="139.2" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>stdin as input</title>
+            <text x="102" y="372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="372.5">stdin as input</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="401"
+            width="154.8" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>stdout as output</title>
+            <text x="102" y="421"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="421">stdout as output</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="464.5"
+            width="180.4" height="30"
+            style="fill:#fff; stroke:#444; stroke-width:1" />
+                    
+                <line x1="55" y1="464.5" x2="55" y2="494.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+                <line x1="225.4" y1="464.5" x2="225.4" y2="494.5"
+                style="fill:#fff; stroke:#444; stroke-width:1" />
+             
+                <title>import from&quot;chalk&quot;</title>
+            <text x="70" y="484.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="70" y="484.5">import from&quot;chalk&quot;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="513"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#81d4fa; stroke:#444; stroke-width:1" />
+                   <title>chalk</title>
+            <text x="102" y="533"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="533">chalk</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="561.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>CoinData</title>
+            <text x="65" y="581.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="581.5">CoinData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="610"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>last_price</title>
+            <text x="65" y="630"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="630">last_price</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="658.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>lowest_ask</title>
+            <text x="65" y="678.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="678.5">lowest_ask</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="707"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>highest_bid</title>
+            <text x="65" y="727"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="727">highest_bid</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="755.5"
+            width="115.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>base_volume</title>
+            <text x="65" y="775.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="775.5">base_volume</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="804"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>high_24hr</title>
+            <text x="65" y="824"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="824">high_24hr</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="852.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>low_24hr</title>
+            <text x="65" y="872.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="872.5">low_24hr</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="901"
+            width="154.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>change_perc_24hr</title>
+            <text x="65" y="921"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="921">change_perc_24hr</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="949.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="65" y="969.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="969.5">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="998"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Record</title>
+            <text x="65" y="1018"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1018">Record</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1046.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>CoinData</title>
+            <text x="65" y="1066.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1066.5">CoinData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="1095"
+            width="279.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>let favoriteCoins: string[] = []</title>
+            <text x="65" y="1115"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="1115">let favoriteCoins: string[] = []</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1158.5"
+            width="252.79999999999998" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="1158.5" x2="60" y2="1188.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="292.79999999999995" y1="1158.5" x2="292.79999999999995" y2="1188.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function fetchMarketData()</title>
+            <text x="75" y="1178.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="1178.5">function fetchMarketData()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1207"
+            width="53.4" height="30"
+            rx="2" ry="2"
+            style="fill:#FFE082; stroke:#444; stroke-width:1" />
+                   <title>try</title>
+            <text x="102" y="1227"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1227">try</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="1255.5"
+            width="209.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const {...} = undefined</title>
+            <text x="139" y="1275.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1275.5">const {...} = undefined</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1304"
+            width="61.2" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>data</title>
+            <text x="176" y="1324"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1324">data</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1352.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="176" y="1372.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1372.5">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="124" y="1401"
+            width="115.80000000000001" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="239.8" y1="1411" x2="244.8" y2="1411"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="239.8" y1="1421" x2="244.8" y2="1421"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M244.8, 1405 L260.8, 1416 L244.8, 1427 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return data</title>
+            <text x="139" y="1421"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1421">return data</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="124" y="1449.5"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+                
+                <line x1="255.39999999999998" y1="1462.5" x2="257.4" y2="1462.5"
+                style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+                
+                <line x1="255.39999999999998" y1="1466.5" x2="257.4" y2="1466.5"
+                style="fill:#ef9a9a; stroke:#444; stroke-width:1" />
+
+                <path d="M257.4, 1450.5 L273.4, 1464.5 L257.4, 1478.5 Z" 
+        fill="#ef9a9a" stroke="#444" stroke-width="1" />
+                             
+                <title>catch (error)</title>
+            <text x="139" y="1469.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="1469.5">catch (error)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="161" y="1498"
+            width="69" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>error</title>
+            <text x="176" y="1518"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1518">error</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="1546.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.error(chalk.red(&quot;Error fetching market data:&quot;), error)</title>
+            <text x="176" y="1566.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1566.5">console.error(chalk.red(&quot;Error fetching market dat...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="161" y="1595"
+            width="76.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="237.8" y1="1605" x2="242.8" y2="1605"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="237.8" y1="1615" x2="242.8" y2="1615"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M242.8, 1599 L258.8, 1610 L242.8, 1621 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return</title>
+            <text x="176" y="1615"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="1615">return</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1643.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Promise</title>
+            <text x="102" y="1663.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1663.5">Promise</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1692"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="102" y="1712"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1712">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="1755.5"
+            width="463.4" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="1755.5" x2="60" y2="1785.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="503.4" y1="1755.5" x2="503.4" y2="1785.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function displayUSDTCoins(data, highest = false, length = 5)</title>
+            <text x="75" y="1775.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="1775.5">function displayUSDTCoins(data, highest = false, l...</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="1804"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="102" y="1824"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1824">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1852.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.clear()</title>
+            <text x="102" y="1872.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1872.5">console.clear()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1901"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue.bold(&quot;\nİlk 5 Coin&quot;))</title>
+            <text x="102" y="1921"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1921">console.log(chalk.blue.bold(&quot;\nİlk 5 Coin&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1949.5"
+            width="186" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>Object.entries(data)</title>
+            <text x="102" y="1969.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="1969.5">Object.entries(data)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="1998"
+            width="123.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.filter(*())</title>
+            <text x="102" y="2018"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2018">.filter(*())</tspan>
+            </text>
+                   <circle cx="93" cy="2022" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+            <g>
+                <rect x="124" y="2046.5"
+            width="135.8" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="2046.5" x2="134" y2="2076.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="249.8" y1="2046.5" x2="249.8" y2="2076.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>([name]) =&gt;</title>
+            <text x="149" y="2066.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="2066.5">([name]) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="161" y="2095"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="176" y="2115"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2115">name</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="161" y="2143.5"
+            width="248.39999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="409.4" y1="2153.5" x2="414.4" y2="2153.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="409.4" y1="2163.5" x2="414.4" y2="2163.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M414.4, 2147.5 L430.4, 2158.5 L414.4, 2169.5 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return name.endsWith(&apos;USDT&apos;)</title>
+            <text x="176" y="2163.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2163.5">return name.endsWith(&apos;USDT&apos;)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="2192"
+            width="108" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.sort(*())</title>
+            <text x="102" y="2212"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2212">.sort(*())</tspan>
+            </text>
+                   <circle cx="93" cy="2216" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+            <g>
+                <rect x="124" y="2240.5"
+            width="182.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="2240.5" x2="134" y2="2270.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="296.6" y1="2240.5" x2="296.6" y2="2270.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>([, a], [, b]) =&gt;</title>
+            <text x="149" y="2260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="2260.5">([, a], [, b]) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="161" y="2289"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>a</title>
+            <text x="176" y="2309"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2309">a</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2337.5"
+            width="37.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>b</title>
+            <text x="176" y="2357.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2357.5">b</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2386"
+            width="162.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.slice(0, length)</title>
+            <text x="102" y="2406"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2406">.slice(0, length)</tspan>
+            </text>
+                   <circle cx="93" cy="2410" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+                <g>
+                   <rect x="87" y="2434.5"
+            width="131.39999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.forEach(*())</title>
+            <text x="102" y="2454.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="2454.5">.forEach(*())</tspan>
+            </text>
+                   <circle cx="93" cy="2458.5" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+            <g>
+                <rect x="124" y="2483"
+            width="182.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="134" y1="2483" x2="134" y2="2513"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="296.6" y1="2483" x2="296.6" y2="2513"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>([name, coin]) =&gt;</title>
+            <text x="149" y="2503"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="149" y="2503">([name, coin]) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="161" y="2531.5"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>name</title>
+            <text x="176" y="2551.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2551.5">name</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2580"
+            width="61.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>coin</title>
+            <text x="176" y="2600"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2600">coin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2628.5"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.green(name.replace(&quot;_USDT&quot;, &quot;&quot;))</title>
+            <text x="176" y="2648.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2648.5">chalk.green(name.replace(&quot;_USDT&quot;, &quot;&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2677"
+            width="186" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;İ.F:&apos;)</title>
+            <text x="176" y="2697"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2697">chalk.yellow(&apos;İ.F:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2725.5"
+            width="310.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.low_24hr.toFixed(2))</title>
+            <text x="176" y="2745.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2745.5">chalk.cyan(coin.low_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2774"
+            width="186" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;S.F:&apos;)</title>
+            <text x="176" y="2794"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2794">chalk.yellow(&apos;S.F:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2822.5"
+            width="318.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.high_24hr.toFixed(2))</title>
+            <text x="176" y="2842.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2842.5">chalk.cyan(coin.high_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2871"
+            width="279.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.magenta(&apos;GÜNLÜK DEĞİŞİM:&apos;)</title>
+            <text x="176" y="2891"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2891">chalk.magenta(&apos;GÜNLÜK DEĞİŞİM:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2919.5"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.change_perc_24hr.toFixed(2))</title>
+            <text x="176" y="2939.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2939.5">chalk.cyan(coin.change_perc_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="2968"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`${chalk.green(name.replace(&quot;_USDT&quot;, &quot;&quot;))} - ${chalk.yellow(&quot;İ.F:&quot;)} ${chalk.cyan(coin.low_24hr.toFixed(2))} - ${chalk.yellow(&quot;S.F:&quot;)} ${chalk.cyan(coin.high_24hr.toFixed(2))} - ${chalk.magenta(&quot;GÜNLÜK DEĞİŞİM:&quot;)} ${chalk.cyan(coin.change_perc_24hr.toFixed(2))}%`)</title>
+            <text x="176" y="2988"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="2988">console.log(`${chalk.green(name.replace(&quot;_USDT&quot;, &quot;...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="3031.5"
+            width="323" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="3031.5" x2="60" y2="3061.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="363" y1="3031.5" x2="363" y2="3061.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function displayFavoriteCoins(data)</title>
+            <text x="75" y="3051.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="3051.5">function displayFavoriteCoins(data)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="3080"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="102" y="3100"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3100">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3128.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.clear()</title>
+            <text x="102" y="3148.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3148.5">console.clear()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3177"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue.bold(&quot;\nFavori Coinleriniz:&quot;))</title>
+            <text x="102" y="3197"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3197">console.log(chalk.blue.bold(&quot;\nFavori Coinleriniz:...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="117" y="3240.5"
+            width="278.4" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="87,3255.5 117,3225.5 147,3255.5 117,3285.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(favoriteCoins.length === 0)</title>
+            <text x="162" y="3260.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="3260.5">(favoriteCoins.length === 0)</tspan>
+            </text>
+            
+            <text x="109.2" y="3260.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="124.8" y="3287.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="399.29999999999995" y="3253.55"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="137" y="3295.5"
+            width="388.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(&quot;Favori coininiz yok.&quot;))</title>
+            <text x="152" y="3315.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="3315.5">console.log(chalk.red(&quot;Favori coininiz yok.&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="585.8" y="3295.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>favoriteCoins.forEach(*())</title>
+            <text x="600.8" y="3315.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="600.8" y="3315.5">favoriteCoins.forEach(*())</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="622.8" y="3344"
+            width="151.39999999999998" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="632.8" y1="3344" x2="632.8" y2="3374"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="764.1999999999999" y1="3344" x2="764.1999999999999" y2="3374"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>(coinName) =&gt;</title>
+            <text x="647.8" y="3364"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="647.8" y="3364">(coinName) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="659.8" y="3392.5"
+            width="318.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const coin = data[`${coinName}_USDT`]</title>
+            <text x="674.8" y="3412.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="674.8" y="3412.5">const coin = data[`${coinName}_USDT`]</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="696.8" y="3441"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>coinName</title>
+            <text x="711.8" y="3461"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="711.8" y="3461">coinName</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="689.8" y="3504.5"
+            width="106.80000000000001" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="659.8,3519.5 689.8,3489.5 719.8,3519.5 689.8,3549.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(coin)</title>
+            <text x="734.8" y="3524.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="734.8" y="3524.5">(coin)</tspan>
+            </text>
+            
+            <text x="682" y="3524.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="697.5999999999999" y="3551.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="800.4999999999999" y="3517.55"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="709.8" y="3559.5"
+            width="193.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.green(coinName)</title>
+            <text x="724.8" y="3579.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3579.5">chalk.green(coinName)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="709.8" y="3608"
+            width="201.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;Fiyat:&apos;)</title>
+            <text x="724.8" y="3628"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3628">chalk.yellow(&apos;Fiyat:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="709.8" y="3656.5"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.last_price.toFixed(2))</title>
+            <text x="724.8" y="3676.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3676.5">chalk.cyan(coin.last_price.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="709.8" y="3705"
+            width="279.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.magenta(&apos;GÜNLÜK DEĞİŞİM:&apos;)</title>
+            <text x="724.8" y="3725"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3725">chalk.magenta(&apos;GÜNLÜK DEĞİŞİM:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="709.8" y="3753.5"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.change_perc_24hr.toFixed(2))</title>
+            <text x="724.8" y="3773.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3773.5">chalk.cyan(coin.change_perc_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="709.8" y="3802"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`${chalk.green(coinName)} - ${chalk.yellow(&quot;Fiyat:&quot;)} ${chalk.cyan(coin.last_price.toFixed(2))} ${chalk.magenta(&quot;GÜNLÜK DEĞİŞİM:&quot;)} ${chalk.cyan(coin.change_perc_24hr.toFixed(2))}%`)</title>
+            <text x="724.8" y="3822"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="724.8" y="3822">console.log(`${chalk.green(coinName)} - ${chalk.ye...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="1213.1999999999998" y="3559.5"
+            width="178.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.red(coinName)</title>
+            <text x="1228.1999999999998" y="3579.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="1228.1999999999998" y="3579.5">chalk.red(coinName)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="1213.1999999999998" y="3608"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`${chalk.red(coinName)} - Veri bulunamadı.`)</title>
+            <text x="1228.1999999999998" y="3628"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="1228.1999999999998" y="3628">console.log(`${chalk.red(coinName)} - Veri bulunam...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="3867"
+            width="260.6" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="3867" x2="60" y2="3897"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="300.6" y1="3867" x2="300.6" y2="3897"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function mainMenu(rl, data)</title>
+            <text x="75" y="3887"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="3887">function mainMenu(rl, data)</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="3915.5"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>readline</title>
+            <text x="102" y="3935.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3935.5">readline</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="3964"
+            width="100.2" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Interface</title>
+            <text x="102" y="3984"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="3984">Interface</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4012.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>MarketData</title>
+            <text x="102" y="4032.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4032.5">MarketData</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4061"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.clear()</title>
+            <text x="102" y="4081"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4081">console.clear()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4109.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue.bold(&quot;\nFAVORİ COİNLERİNİZ&quot;))</title>
+            <text x="102" y="4129.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4129.5">console.log(chalk.blue.bold(&quot;\nFAVORİ COİNLERİNİZ&quot;...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4158"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>displayFavoriteCoins(data)</title>
+            <text x="102" y="4178"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4178">displayFavoriteCoins(data)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4206.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;\n1- Günlük En Çok Artan Coinleri Gör&quot;))</title>
+            <text x="102" y="4226.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4226.5">console.log(chalk.green(&quot;\n1- Günlük En Çok Artan ...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4255"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;2- Günlük En Çok Azalan Coinleri Gör&quot;))</title>
+            <text x="102" y="4275"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4275">console.log(chalk.green(&quot;2- Günlük En Çok Azalan C...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4303.5"
+            width="404.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;3- Coin Fiyatına Bak&quot;))</title>
+            <text x="102" y="4323.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4323.5">console.log(chalk.green(&quot;3- Coin Fiyatına Bak&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4352"
+            width="396.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;4- Favori Coin Ekle&quot;))</title>
+            <text x="102" y="4372"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4372">console.log(chalk.green(&quot;4- Favori Coin Ekle&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4400.5"
+            width="388.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;5- Favori Coin Sil&quot;))</title>
+            <text x="102" y="4420.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4420.5">console.log(chalk.green(&quot;5- Favori Coin Sil&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4449"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(&quot;6- Tüm Coinleri Listele&quot;))</title>
+            <text x="102" y="4469"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4469">console.log(chalk.green(&quot;6- Tüm Coinleri Listele&quot;)...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4497.5"
+            width="310.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(&quot;9- Çıkış\n&quot;))</title>
+            <text x="102" y="4517.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4517.5">console.log(chalk.red(&quot;9- Çıkış\n&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="4546"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const choice = await rl.question(chalk.yellow(&quot;Seçiminizi yapın: &quot;))</title>
+            <text x="102" y="4566"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="4566">const choice = await rl.question(chalk.yellow(&quot;Seç...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="117" y="4609.5"
+            width="177" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="87,4624.5 117,4594.5 147,4624.5 117,4654.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>switch (choice)</title>
+            <text x="162" y="4629.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="4629.5">switch (choice)</tspan>
+            </text>
+            
+            <text x="109.2" y="4629.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="124.8" y="4656.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> 
+        </g>
+                <g>
+                   <rect x="137" y="4664.5"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;1&quot;:</title>
+            <text x="152" y="4684.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="4684.5">case &quot;1&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="4713"
+            width="248.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>displayUSDTCoins(data, true)</title>
+            <text x="189" y="4733"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="4733">displayUSDTCoins(data, true)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="4761.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="4781.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="4781.5">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="4810"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="4830"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="4830">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="4858.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="4868.5" x2="248" y2="4868.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="4878.5" x2="248" y2="4878.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 4859.5 L264, 4873.5 L248, 4887.5 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="4878.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="4878.5">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="4907"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;2&quot;:</title>
+            <text x="152" y="4927"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="4927">case &quot;2&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="4955.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.clear()</title>
+            <text x="189" y="4975.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="4975.5">console.clear()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5004"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue.bold(&quot;\nGünlük En Çok Azalan Coinler:&quot;))</title>
+            <text x="189" y="5024"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5024">console.log(chalk.blue.bold(&quot;\nGünlük En Çok Azala...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5052.5"
+            width="256.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>displayUSDTCoins(data, false)</title>
+            <text x="189" y="5072.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5072.5">displayUSDTCoins(data, false)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5101"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="5121"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5121">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5149.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="5169.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5169.5">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="5198"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="5208" x2="248" y2="5208"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="5218" x2="248" y2="5218"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 5199 L264, 5213 L248, 5227 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="5218"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5218">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="5246.5"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;3&quot;:</title>
+            <text x="152" y="5266.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="5266.5">case &quot;3&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5295"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const coinName = await rl.question(chalk.yellow(&quot;Coin adını girin: &quot;))</title>
+            <text x="189" y="5315"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5315">const coinName = await rl.question(chalk.yellow(&quot;C...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="5343.5"
+            width="318.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const coin = data[`${coinName}_USDT`]</title>
+            <text x="189" y="5363.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="5363.5">const coin = data[`${coinName}_USDT`]</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="211" y="5392"
+            width="92.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>coinName</title>
+            <text x="226" y="5412"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="226" y="5412">coinName</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="204" y="5455.5"
+            width="106.80000000000001" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="174,5470.5 204,5440.5 234,5470.5 204,5500.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(coin)</title>
+            <text x="249" y="5475.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="249" y="5475.5">(coin)</tspan>
+            </text>
+            
+            <text x="196.2" y="5475.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="211.8" y="5502.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="314.7" y="5468.55"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="224" y="5510.5"
+            width="193.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.green(coinName)</title>
+            <text x="239" y="5530.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5530.5">chalk.green(coinName)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5559"
+            width="287.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;Günlük Son Fiyat:&apos;)</title>
+            <text x="239" y="5579"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5579">chalk.yellow(&apos;Günlük Son Fiyat:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5607.5"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.last_price.toFixed(2))</title>
+            <text x="239" y="5627.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5627.5">chalk.cyan(coin.last_price.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5656"
+            width="287.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;Günlük İlk Fiyat:&apos;)</title>
+            <text x="239" y="5676"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5676">chalk.yellow(&apos;Günlük İlk Fiyat:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5704.5"
+            width="310.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.low_24hr.toFixed(2))</title>
+            <text x="239" y="5724.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5724.5">chalk.cyan(coin.low_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5753"
+            width="334.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;Günlük En Yüksek Fiyat:&apos;)</title>
+            <text x="239" y="5773"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5773">chalk.yellow(&apos;Günlük En Yüksek Fiyat:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5801.5"
+            width="318.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.high_24hr.toFixed(2))</title>
+            <text x="239" y="5821.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5821.5">chalk.cyan(coin.high_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5850"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.yellow(&apos;Günlük En Düşük Fiyat:&apos;)</title>
+            <text x="239" y="5870"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5870">chalk.yellow(&apos;Günlük En Düşük Fiyat:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5898.5"
+            width="310.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.low_24hr.toFixed(2))</title>
+            <text x="239" y="5918.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5918.5">chalk.cyan(coin.low_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5947"
+            width="326.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.magenta(&apos;Günlük Değişim Oranı:&apos;)</title>
+            <text x="239" y="5967"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="5967">chalk.magenta(&apos;Günlük Değişim Oranı:&apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="5995.5"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.cyan(coin.change_perc_24hr.toFixed(2))</title>
+            <text x="239" y="6015.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="6015.5">chalk.cyan(coin.change_perc_24hr.toFixed(2))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="6044"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(`\n${chalk.green(coinName)} \n` + `${chalk.yellow(&quot;Günlük Son Fiyat:&quot;)} ${chalk.cyan(coin.last_price.toFixed(2))} \n` + `${chalk.yellow(&quot;Günlük İlk Fiyat:&quot;)} ${chalk.cyan(coin.low_24hr.toFixed(2))} \n` + `${chalk.yellow(&quot;Günlük En Yüksek Fiyat:&quot;)} ${chalk.cyan(coin.high_24hr.toFixed(2))} \n` + `${chalk.yellow(&quot;Günlük En Düşük Fiyat:&quot;)} ${chalk.cyan(coin.low_24hr.toFixed(2))} \n` + `${chalk.magenta(&quot;Günlük Değişim Oranı:&quot;)} ${chalk.cyan(coin.change_perc_24hr.toFixed(2))}%`)</title>
+            <text x="239" y="6064"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="6064">console.log(`\n${chalk.green(coinName)} \n` + `${c...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="727.4" y="5510.5"
+            width="357.59999999999997" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(&quot;Coin bulunamadı.&quot;))</title>
+            <text x="742.4" y="5530.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="742.4" y="5530.5">console.log(chalk.red(&quot;Coin bulunamadı.&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="6094"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="6114"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6114">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="6142.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="6162.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6162.5">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="6191"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="6201" x2="248" y2="6201"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="6211" x2="248" y2="6211"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 6192 L264, 6206 L248, 6220 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="6211"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6211">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="6239.5"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;4&quot;:</title>
+            <text x="152" y="6259.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="6259.5">case &quot;4&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="6288"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const addCoin = await rl.question(chalk.yellow(&quot;Favorilere eklemek istediğiniz coin adını girin: &quot;))</title>
+            <text x="189" y="6308"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6308">const addCoin = await rl.question(chalk.yellow(&quot;Fa...</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="204" y="6351.5"
+            width="364.2" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="174,6366.5 204,6336.5 234,6366.5 204,6396.5"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!favoriteCoins.includes(`${addCoin}`))</title>
+            <text x="249" y="6371.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="249" y="6371.5">(!favoriteCoins.includes(`${addCoin}`))</tspan>
+            </text>
+            
+            <text x="196.2" y="6371.5"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="211.8" y="6398.45"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="572.1" y="6364.55"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="224" y="6406.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="239" y="6426.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="6426.5">addCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="224" y="6455"
+            width="310.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const coin = data[`${addCoin}_USDT`]</title>
+            <text x="239" y="6475"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="239" y="6475">const coin = data[`${addCoin}_USDT`]</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="261" y="6503.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="276" y="6523.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="276" y="6523.5">addCoin</tspan>
+            </text>
+                   
+                   
+                </g><g>
+            <rect x="254" y="6567"
+            width="114.6" height="30"
+            rx="3" ry="3"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />                
+            <polygon points="224,6582 254,6552 284,6582 254,6612"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+            <title>(!coin)</title>
+            <text x="299" y="6587"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="299" y="6587">(!coin)</tspan>
+            </text>
+            
+            <text x="246.2" y="6587"
+        font-family="monospace" font-size="13" fill="#222">if</text> <text x="261.8" y="6613.95"
+        font-family="monospace" font-size="13" fill="#222">+</text> <text x="372.5" y="6580.05"
+        font-family="monospace" font-size="13" fill="#222">-</text>
+        </g>
+                <g>
+                   <rect x="274" y="6622"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="289" y="6642"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="289" y="6642">addCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="274" y="6670.5"
+            width="232.79999999999998" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>chalk.green(&apos;6 numaralı &apos;)</title>
+            <text x="289" y="6690.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="289" y="6690.5">chalk.green(&apos;6 numaralı &apos;)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="274" y="6719"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(`${addCoin} adlı değer markette bulunmuyor. Coinleri listelemek için ana menüye dönüp ${chalk.green(&quot;6 numaralı &quot;)} seçimi yapabilirsiniz.`))</title>
+            <text x="289" y="6739"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="289" y="6739">console.log(chalk.red(`${addCoin} adlı değer marke...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="777.4" y="6622"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="792.4" y="6642"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="792.4" y="6642">addCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="777.4" y="6670.5"
+            width="279.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>favoriteCoins.push(`${addCoin}`)</title>
+            <text x="792.4" y="6690.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="792.4" y="6690.5">favoriteCoins.push(`${addCoin}`)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="777.4" y="6719"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="792.4" y="6739"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="792.4" y="6739">addCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="777.4" y="6767.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(`${addCoin} favorilere eklendi.`))</title>
+            <text x="792.4" y="6787.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="792.4" y="6787.5">console.log(chalk.green(`${addCoin} favorilere ekl...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="1280.8" y="6406.5"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>addCoin</title>
+            <text x="1295.8" y="6426.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="1295.8" y="6426.5">addCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="1280.8" y="6455"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(`${addCoin} zaten favorilerinizde.`))</title>
+            <text x="1295.8" y="6475"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="1295.8" y="6475">console.log(chalk.red(`${addCoin} zaten favorileri...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="6817.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="6837.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6837.5">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="6866"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="6886"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6886">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="6914.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="6924.5" x2="248" y2="6924.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="6934.5" x2="248" y2="6934.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 6915.5 L264, 6929.5 L248, 6943.5 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="6934.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="6934.5">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="6963"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;5&quot;:</title>
+            <text x="152" y="6983"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="6983">case &quot;5&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7011.5"
+            width="443.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const removeCoin = await rl.question(chalk.yellow(&quot;Favorilerden silmek istediğiniz coin adını girin: &quot;))</title>
+            <text x="189" y="7031.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7031.5">const removeCoin = await rl.question(chalk.yellow(...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7060"
+            width="349.8" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>favoriteCoins = favoriteCoins.filter(*())</title>
+            <text x="189" y="7080"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7080">favoriteCoins = favoriteCoins.filter(*())</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="211" y="7108.5"
+            width="120.2" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="221" y1="7108.5" x2="221" y2="7138.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="321.2" y1="7108.5" x2="321.2" y2="7138.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>(coin) =&gt;</title>
+            <text x="236" y="7128.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="236" y="7128.5">(coin) =&gt;</tspan>
+            </text>
+                
+            </g>
+            <g>
+                <rect x="248" y="7157"
+            width="232.79999999999998" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="480.79999999999995" y1="7167" x2="485.79999999999995" y2="7167"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                
+                <line x1="480.79999999999995" y1="7177" x2="485.79999999999995" y2="7177"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+
+                <path d="M485.79999999999995, 7161 L501.79999999999995, 7172 L485.79999999999995, 7183 Z" 
+        fill="#a5d6a7" stroke="#444" stroke-width="1" />
+                             
+                <title>return coin !== removeCoin</title>
+            <text x="263" y="7177"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="263" y="7177">return coin !== removeCoin</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="174" y="7205.5"
+            width="108" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>removeCoin</title>
+            <text x="189" y="7225.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7225.5">removeCoin</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7254"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.green(`${removeCoin} favorilerden silindi.`))</title>
+            <text x="189" y="7274"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7274">console.log(chalk.green(`${removeCoin} favorilerde...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7302.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="7322.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7322.5">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7351"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="7371"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7371">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="7399.5"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="7409.5" x2="248" y2="7409.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="7419.5" x2="248" y2="7419.5"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 7400.5 L264, 7414.5 L248, 7428.5 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="7419.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7419.5">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="7448"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;6&quot;:</title>
+            <text x="152" y="7468"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="7468">case &quot;6&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7496.5"
+            width="279.6" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>displayUSDTCoins(data, true, 99)</title>
+            <text x="189" y="7516.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7516.5">displayUSDTCoins(data, true, 99)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7545"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.blue(&quot;\nAna menüye dönmek için herhangi bir tuşa basınız.&quot;))</title>
+            <text x="189" y="7565"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7565">console.log(chalk.blue(&quot;\nAna menüye dönmek için h...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7593.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>rl.question(&quot;&quot;)</title>
+            <text x="189" y="7613.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7613.5">rl.question(&quot;&quot;)</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="174" y="7642"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="7652" x2="248" y2="7652"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                
+                <line x1="243" y1="7662" x2="248" y2="7662"
+                style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+
+                <path d="M248, 7643 L264, 7657 L248, 7671 Z" 
+        fill="#ce93d8" stroke="#444" stroke-width="1" />
+                             
+                <title>break</title>
+            <text x="189" y="7662"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7662">break</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="137" y="7690.5"
+            width="100.2" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>case &quot;9&quot;:</title>
+            <text x="152" y="7710.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="7710.5">case &quot;9&quot;:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7739"
+            width="373.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(&quot;Çıkış yapılıyor...&quot;))</title>
+            <text x="189" y="7759"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7759">console.log(chalk.red(&quot;Çıkış yapılıyor...&quot;))</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7787.5"
+            width="147" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>process.exit(0)</title>
+            <text x="189" y="7807.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7807.5">process.exit(0)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="137" y="7836"
+            width="92.4" height="30"
+            rx="2" ry="2"
+            style="fill:#ce93d8; stroke:#444; stroke-width:1" />
+                   <title>default:</title>
+            <text x="152" y="7856"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="7856">default:</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="174" y="7884.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.log(chalk.red(&quot;Geçersiz seçim. Tekrar deneyin.&quot;))</title>
+            <text x="189" y="7904.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="189" y="7904.5">console.log(chalk.red(&quot;Geçersiz seçim. Tekrar dene...</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="87" y="7933"
+            width="84.6" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>Promise</title>
+            <text x="102" y="7953"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="7953">Promise</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+                <rect x="50" y="7996.5"
+            width="167" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="60" y1="7996.5" x2="60" y2="8026.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="207" y1="7996.5" x2="207" y2="8026.5"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>function main()</title>
+            <text x="75" y="8016.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="75" y="8016.5">function main()</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="87" y="8045"
+            width="342" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const rl = readline.createInterface({*})</title>
+            <text x="102" y="8065"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="102" y="8065">const rl = readline.createInterface({*})</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="124" y="8093.5"
+            width="53.4" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>{*}</title>
+            <text x="139" y="8113.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8113.5">{*}</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="8142"
+            width="69" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>input</title>
+            <text x="176" y="8162"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="8162">input</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="161" y="8190.5"
+            width="76.8" height="30"
+            rx="2" ry="2"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>output</title>
+            <text x="176" y="8210.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="176" y="8210.5">output</tspan>
+            </text>
+                   
+                   
+                </g><g>
+
+            <rect x="117" y="8274"
+            width="91.2" height="30"
+            rx="3" ry="3"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+            <polygon points="87,8289 117,8259 147,8289 117,8319"
+            style="fill:#b39ddb; stroke:#444; stroke-width:1" />
+                
+            <title>true</title>
+            <text x="162" y="8294"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="162" y="8294">true</tspan>
+            </text>
+            
+            <text x="97.5" y="8294"
+        font-family="monospace" font-size="13" fill="#222">while</text>
+        </g>
+                <g>
+                   <rect x="137" y="8329"
+            width="357.59999999999997" height="30"
+            rx="3" ry="3"
+            style="fill:#90caf9; stroke:#444; stroke-width:1" />
+                   <title>const marketData = await fetchMarketData()</title>
+            <text x="152" y="8349"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="8349">const marketData = await fetchMarketData()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="137" y="8377.5"
+            width="217.2" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>mainMenu(rl, marketData)</title>
+            <text x="152" y="8397.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="152" y="8397.5">mainMenu(rl, marketData)</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="8426"
+            width="76.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>main()</title>
+            <text x="65" y="8446"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="8446">main()</tspan>
+            </text>
+                   
+                   
+                </g>
+                <g>
+                   <rect x="50" y="8474.5"
+            width="115.8" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>.catch(*())</title>
+            <text x="65" y="8494.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="65" y="8494.5">.catch(*())</tspan>
+            </text>
+                   <circle cx="56" cy="8498.5" r="4"
+        style="fill:#ede7f6; stroke:#444; stroke-width:1" />
+                   
+                </g>
+            <g>
+                <rect x="87" y="8523"
+            width="128" height="30"
+            style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                    
+                <line x1="97" y1="8523" x2="97" y2="8553"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+                <line x1="205" y1="8523" x2="205" y2="8553"
+                style="fill:#a5d6a7; stroke:#444; stroke-width:1" />
+             
+                <title>(error) =&gt;</title>
+            <text x="112" y="8543"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="112" y="8543">(error) =&gt;</tspan>
+            </text>
+                
+            </g>
+                <g>
+                   <rect x="124" y="8571.5"
+            width="443.4" height="30"
+            rx="2" ry="2"
+            style="fill:#C5E1A5; stroke:#444; stroke-width:1" />
+                   <title>console.error(chalk.red(&quot;Bir hata oluştu:&quot;), error)</title>
+            <text x="139" y="8591.5"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="139" y="8591.5">console.error(chalk.red(&quot;Bir hata oluştu:&quot;), error...</tspan>
+            </text>
+                   
+                   
+                </g>
+            <g>
+               <rect x="25" y="13.75"
+            width="216.6" height="24"
+            style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <circle cx="25" cy="25" r="15"
+        style="fill:#fff59d; stroke:#444; stroke-width:1" />
+               <title>Program: source module</title>
+            <text x="55" y="30"
+                font-family="monospace" font-size="13" fill="#222">
+                <tspan x="55" y="30">Program: source module</tspan>
+            </text>
+            </g>
+            <g>
+               <path d="M25, 40 L25 91 Q25 95
+                29 95
+                L42 95 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 92 L50, 95 L42, 98 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 110 L68.5 139.5 Q68.5 143.5
+                72.5 143.5
+                L87 143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 203 Q25 207
+                29 207
+                L42 207 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 204 L50, 207 L42, 210 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 222 L68.5 251.5 Q68.5 255.5
+                72.5 255.5
+                L87 255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 315 Q25 319
+                29 319
+                L42 319 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 316 L50, 319 L42, 322 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 334 L68.5 363.5 Q68.5 367.5
+                72.5 367.5
+                L87 367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 334 L68.5 412 Q68.5 416
+                72.5 416
+                L87 416 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 475.5 Q25 479.5
+                29 479.5
+                L42 479.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 476.5 L50, 479.5 L42, 482.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 494.5 L68.5 524 Q68.5 528
+                72.5 528
+                L87 528 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M25, 40 L25 572.5 Q25 576.5
+                29 576.5
+                L42 576.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 573.5 L50, 576.5 L42, 579.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 621 Q25 625
+                29 625
+                L42 625 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 622 L50, 625 L42, 628 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 669.5 Q25 673.5
+                29 673.5
+                L42 673.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 670.5 L50, 673.5 L42, 676.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 718 Q25 722
+                29 722
+                L42 722 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 719 L50, 722 L42, 725 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 766.5 Q25 770.5
+                29 770.5
+                L42 770.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 767.5 L50, 770.5 L42, 773.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 815 Q25 819
+                29 819
+                L42 819 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 816 L50, 819 L42, 822 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 863.5 Q25 867.5
+                29 867.5
+                L42 867.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 864.5 L50, 867.5 L42, 870.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 912 Q25 916
+                29 916
+                L42 916 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 913 L50, 916 L42, 919 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 960.5 Q25 964.5
+                29 964.5
+                L42 964.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 961.5 L50, 964.5 L42, 967.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1009 Q25 1013
+                29 1013
+                L42 1013 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1010 L50, 1013 L42, 1016 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1057.5 Q25 1061.5
+                29 1061.5
+                L42 1061.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1058.5 L50, 1061.5 L42, 1064.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1106 Q25 1110
+                29 1110
+                L42 1110 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1107 L50, 1110 L42, 1113 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1169.5 Q25 1173.5
+                29 1173.5
+                L42 1173.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1170.5 L50, 1173.5 L42, 1176.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1188.5 L68.5 1218 Q68.5 1222
+                72.5 1222
+                L79 1222 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1219 L87, 1222 L79, 1225 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 1237 L105.5 1266.5 Q105.5 1270.5
+                109.5 1270.5
+                L116 1270.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 1267.5 L124, 1270.5 L116, 1273.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 1285.5 L142.5 1315 Q142.5 1319
+                146.5 1319
+                L161 1319 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 1285.5 L142.5 1363.5 Q142.5 1367.5
+                146.5 1367.5
+                L153 1367.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1364.5 L161, 1367.5 L153, 1370.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 1237 L105.5 1412 Q105.5 1416
+                109.5 1416
+                L116 1416 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 1413 L124, 1416 L116, 1419 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 1237 L105.5 1460.5 Q105.5 1464.5
+                109.5 1464.5
+                L116 1464.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 1461.5 L124, 1464.5 L116, 1467.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 1479.5 L142.5 1509 Q142.5 1513
+                146.5 1513
+                L153 1513 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1510 L161, 1513 L153, 1516 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 1479.5 L142.5 1557.5 Q142.5 1561.5
+                146.5 1561.5
+                L153 1561.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1558.5 L161, 1561.5 L153, 1564.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 1479.5 L142.5 1606 Q142.5 1610
+                146.5 1610
+                L153 1610 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 1607 L161, 1610 L153, 1613 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1188.5 L68.5 1654.5 Q68.5 1658.5
+                72.5 1658.5
+                L79 1658.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1655.5 L87, 1658.5 L79, 1661.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1188.5 L68.5 1703 Q68.5 1707
+                72.5 1707
+                L79 1707 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1704 L87, 1707 L79, 1710 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 1766.5 Q25 1770.5
+                29 1770.5
+                L42 1770.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 1767.5 L50, 1770.5 L42, 1773.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 1815 Q68.5 1819
+                72.5 1819
+                L79 1819 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1816 L87, 1819 L79, 1822 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 1863.5 Q68.5 1867.5
+                72.5 1867.5
+                L79 1867.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1864.5 L87, 1867.5 L79, 1870.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 1912 Q68.5 1916
+                72.5 1916
+                L79 1916 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1913 L87, 1916 L79, 1919 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 1960.5 Q68.5 1964.5
+                72.5 1964.5
+                L79 1964.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 1961.5 L87, 1964.5 L79, 1967.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 2009 Q68.5 2013
+                72.5 2013
+                L79 2013 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2010 L87, 2013 L79, 2016 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2028 L105.5 2057.5 Q105.5 2061.5
+                109.5 2061.5
+                L124 2061.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2076.5 L142.5 2106 Q142.5 2110
+                146.5 2110
+                L153 2110 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2107 L161, 2110 L153, 2113 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2076.5 L142.5 2154.5 Q142.5 2158.5
+                146.5 2158.5
+                L153 2158.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2155.5 L161, 2158.5 L153, 2161.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 2203 Q68.5 2207
+                72.5 2207
+                L79 2207 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2204 L87, 2207 L79, 2210 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2222 L105.5 2251.5 Q105.5 2255.5
+                109.5 2255.5
+                L124 2255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2270.5 L142.5 2300 Q142.5 2304
+                146.5 2304
+                L153 2304 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2301 L161, 2304 L153, 2307 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2270.5 L142.5 2348.5 Q142.5 2352.5
+                146.5 2352.5
+                L153 2352.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2349.5 L161, 2352.5 L153, 2355.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 2397 Q68.5 2401
+                72.5 2401
+                L79 2401 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2398 L87, 2401 L79, 2404 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 1785.5 L68.5 2445.5 Q68.5 2449.5
+                72.5 2449.5
+                L79 2449.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 2446.5 L87, 2449.5 L79, 2452.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 2464.5 L105.5 2494 Q105.5 2498
+                109.5 2498
+                L124 2498 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2542.5 Q142.5 2546.5
+                146.5 2546.5
+                L153 2546.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2543.5 L161, 2546.5 L153, 2549.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2591 Q142.5 2595
+                146.5 2595
+                L153 2595 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2592 L161, 2595 L153, 2598 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2639.5 Q142.5 2643.5
+                146.5 2643.5
+                L153 2643.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2640.5 L161, 2643.5 L153, 2646.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2688 Q142.5 2692
+                146.5 2692
+                L153 2692 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2689 L161, 2692 L153, 2695 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2736.5 Q142.5 2740.5
+                146.5 2740.5
+                L153 2740.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2737.5 L161, 2740.5 L153, 2743.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2785 Q142.5 2789
+                146.5 2789
+                L153 2789 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2786 L161, 2789 L153, 2792 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2833.5 Q142.5 2837.5
+                146.5 2837.5
+                L153 2837.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2834.5 L161, 2837.5 L153, 2840.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2882 Q142.5 2886
+                146.5 2886
+                L153 2886 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2883 L161, 2886 L153, 2889 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2930.5 Q142.5 2934.5
+                146.5 2934.5
+                L153 2934.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2931.5 L161, 2934.5 L153, 2937.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 2513 L142.5 2979 Q142.5 2983
+                146.5 2983
+                L153 2983 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M153, 2980 L161, 2983 L153, 2986 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3042.5 Q25 3046.5
+                29 3046.5
+                L42 3046.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3043.5 L50, 3046.5 L42, 3049.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3061.5 L68.5 3091 Q68.5 3095
+                72.5 3095
+                L79 3095 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3092 L87, 3095 L79, 3098 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3061.5 L68.5 3139.5 Q68.5 3143.5
+                72.5 3143.5
+                L79 3143.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3140.5 L87, 3143.5 L79, 3146.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3061.5 L68.5 3188 Q68.5 3192
+                72.5 3192
+                L79 3192 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3189 L87, 3192 L79, 3195 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3061.5 L68.5 3251.5 Q68.5 3255.5
+                72.5 3255.5
+                L79 3255.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3252.5 L87, 3255.5 L79, 3258.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 3285.5 L117 3306.5 Q117 3310.5
+                121 3310.5
+                L129 3310.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 3307.5 L137, 3310.5 L129, 3313.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M395.4, 3255.5 L561.8 3255.5  Q565.8 3255.5
+                565.8 3259.5
+                L565.8 3302.5 Q565.8 3310.5
+                569.8 3310.5
+                L577.8 3310.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M577.8, 3307.5 L585.8, 3310.5 L577.8, 3313.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M604.3, 3325.5 L604.3 3355 Q604.3 3359
+                608.3 3359
+                L622.8 3359 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M641.3, 3374 L641.3 3403.5 Q641.3 3407.5
+                645.3 3407.5
+                L651.8 3407.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M651.8, 3404.5 L659.8, 3407.5 L651.8, 3410.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M678.3, 3422.5 L678.3 3452 Q678.3 3456
+                682.3 3456
+                L688.8 3456 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M688.8, 3453 L696.8, 3456 L688.8, 3459 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M641.3, 3374 L641.3 3515.5 Q641.3 3519.5
+                645.3 3519.5
+                L651.8 3519.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M651.8, 3516.5 L659.8, 3519.5 L651.8, 3522.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3570.5 Q689.8 3574.5
+                693.8 3574.5
+                L701.8 3574.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3571.5 L709.8, 3574.5 L701.8, 3577.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3619 Q689.8 3623
+                693.8 3623
+                L701.8 3623 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3620 L709.8, 3623 L701.8, 3626 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3667.5 Q689.8 3671.5
+                693.8 3671.5
+                L701.8 3671.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3668.5 L709.8, 3671.5 L701.8, 3674.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3716 Q689.8 3720
+                693.8 3720
+                L701.8 3720 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3717 L709.8, 3720 L701.8, 3723 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3764.5 Q689.8 3768.5
+                693.8 3768.5
+                L701.8 3768.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3765.5 L709.8, 3768.5 L701.8, 3771.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M689.8, 3549.5 L689.8 3813 Q689.8 3817
+                693.8 3817
+                L701.8 3817 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M701.8, 3814 L709.8, 3817 L701.8, 3820 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M796.5999999999999, 3519.5 L1189.1999999999998 3519.5  Q1193.1999999999998 3519.5
+                1193.1999999999998 3523.5
+                L1193.1999999999998 3566.5 Q1193.1999999999998 3574.5
+                1197.1999999999998 3574.5
+                L1205.1999999999998 3574.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M1205.1999999999998, 3571.5 L1213.1999999999998, 3574.5 L1205.1999999999998, 3577.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M796.5999999999999, 3519.5 L1189.1999999999998 3519.5  Q1193.1999999999998 3519.5
+                1193.1999999999998 3523.5
+                L1193.1999999999998 3615 Q1193.1999999999998 3623
+                1197.1999999999998 3623
+                L1205.1999999999998 3623 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M1205.1999999999998, 3620 L1213.1999999999998, 3623 L1205.1999999999998, 3626 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 3878 Q25 3882
+                29 3882
+                L42 3882 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 3879 L50, 3882 L42, 3885 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 3926.5 Q68.5 3930.5
+                72.5 3930.5
+                L79 3930.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3927.5 L87, 3930.5 L79, 3933.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 3975 Q68.5 3979
+                72.5 3979
+                L79 3979 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 3976 L87, 3979 L79, 3982 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4023.5 Q68.5 4027.5
+                72.5 4027.5
+                L79 4027.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4024.5 L87, 4027.5 L79, 4030.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4072 Q68.5 4076
+                72.5 4076
+                L79 4076 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4073 L87, 4076 L79, 4079 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4120.5 Q68.5 4124.5
+                72.5 4124.5
+                L79 4124.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4121.5 L87, 4124.5 L79, 4127.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4169 Q68.5 4173
+                72.5 4173
+                L79 4173 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4170 L87, 4173 L79, 4176 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4217.5 Q68.5 4221.5
+                72.5 4221.5
+                L79 4221.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4218.5 L87, 4221.5 L79, 4224.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4266 Q68.5 4270
+                72.5 4270
+                L79 4270 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4267 L87, 4270 L79, 4273 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4314.5 Q68.5 4318.5
+                72.5 4318.5
+                L79 4318.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4315.5 L87, 4318.5 L79, 4321.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4363 Q68.5 4367
+                72.5 4367
+                L79 4367 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4364 L87, 4367 L79, 4370 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4411.5 Q68.5 4415.5
+                72.5 4415.5
+                L79 4415.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4412.5 L87, 4415.5 L79, 4418.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4460 Q68.5 4464
+                72.5 4464
+                L79 4464 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4461 L87, 4464 L79, 4467 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4508.5 Q68.5 4512.5
+                72.5 4512.5
+                L79 4512.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4509.5 L87, 4512.5 L79, 4515.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4557 Q68.5 4561
+                72.5 4561
+                L79 4561 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4558 L87, 4561 L79, 4564 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 4620.5 Q68.5 4624.5
+                72.5 4624.5
+                L79 4624.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 4621.5 L87, 4624.5 L79, 4627.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 4675.5 Q117 4679.5
+                121 4679.5
+                L129 4679.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 4676.5 L137, 4679.5 L129, 4682.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4694.5 L155.5 4724 Q155.5 4728
+                159.5 4728
+                L166 4728 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 4725 L174, 4728 L166, 4731 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4694.5 L155.5 4772.5 Q155.5 4776.5
+                159.5 4776.5
+                L166 4776.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 4773.5 L174, 4776.5 L166, 4779.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4694.5 L155.5 4821 Q155.5 4825
+                159.5 4825
+                L166 4825 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 4822 L174, 4825 L166, 4828 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4694.5 L155.5 4869.5 Q155.5 4873.5
+                159.5 4873.5
+                L166 4873.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 4870.5 L174, 4873.5 L166, 4876.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 4918 Q117 4922
+                121 4922
+                L129 4922 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 4919 L137, 4922 L129, 4925 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 4966.5 Q155.5 4970.5
+                159.5 4970.5
+                L166 4970.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 4967.5 L174, 4970.5 L166, 4973.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 5015 Q155.5 5019
+                159.5 5019
+                L166 5019 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5016 L174, 5019 L166, 5022 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 5063.5 Q155.5 5067.5
+                159.5 5067.5
+                L166 5067.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5064.5 L174, 5067.5 L166, 5070.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 5112 Q155.5 5116
+                159.5 5116
+                L166 5116 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5113 L174, 5116 L166, 5119 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 5160.5 Q155.5 5164.5
+                159.5 5164.5
+                L166 5164.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5161.5 L174, 5164.5 L166, 5167.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 4937 L155.5 5209 Q155.5 5213
+                159.5 5213
+                L166 5213 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5210 L174, 5213 L166, 5216 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 5257.5 Q117 5261.5
+                121 5261.5
+                L129 5261.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 5258.5 L137, 5261.5 L129, 5264.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 5306 Q155.5 5310
+                159.5 5310
+                L166 5310 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5307 L174, 5310 L166, 5313 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 5354.5 Q155.5 5358.5
+                159.5 5358.5
+                L166 5358.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5355.5 L174, 5358.5 L166, 5361.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 5373.5 L192.5 5403 Q192.5 5407
+                196.5 5407
+                L203 5407 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M203, 5404 L211, 5407 L203, 5410 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 5466.5 Q155.5 5470.5
+                159.5 5470.5
+                L166 5470.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 5467.5 L174, 5470.5 L166, 5473.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5521.5 Q204 5525.5
+                208 5525.5
+                L216 5525.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5522.5 L224, 5525.5 L216, 5528.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5570 Q204 5574
+                208 5574
+                L216 5574 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5571 L224, 5574 L216, 5577 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5618.5 Q204 5622.5
+                208 5622.5
+                L216 5622.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5619.5 L224, 5622.5 L216, 5625.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5667 Q204 5671
+                208 5671
+                L216 5671 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5668 L224, 5671 L216, 5674 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5715.5 Q204 5719.5
+                208 5719.5
+                L216 5719.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5716.5 L224, 5719.5 L216, 5722.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5764 Q204 5768
+                208 5768
+                L216 5768 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5765 L224, 5768 L216, 5771 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5812.5 Q204 5816.5
+                208 5816.5
+                L216 5816.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5813.5 L224, 5816.5 L216, 5819.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5861 Q204 5865
+                208 5865
+                L216 5865 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5862 L224, 5865 L216, 5868 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5909.5 Q204 5913.5
+                208 5913.5
+                L216 5913.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5910.5 L224, 5913.5 L216, 5916.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 5958 Q204 5962
+                208 5962
+                L216 5962 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 5959 L224, 5962 L216, 5965 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 6006.5 Q204 6010.5
+                208 6010.5
+                L216 6010.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 6007.5 L224, 6010.5 L216, 6013.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 5500.5 L204 6055 Q204 6059
+                208 6059
+                L216 6059 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 6056 L224, 6059 L216, 6062 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M310.8, 5470.5 L703.4 5470.5  Q707.4 5470.5
+                707.4 5474.5
+                L707.4 5517.5 Q707.4 5525.5
+                711.4 5525.5
+                L719.4 5525.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M719.4, 5522.5 L727.4, 5525.5 L719.4, 5528.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 6105 Q155.5 6109
+                159.5 6109
+                L166 6109 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6106 L174, 6109 L166, 6112 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 6153.5 Q155.5 6157.5
+                159.5 6157.5
+                L166 6157.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6154.5 L174, 6157.5 L166, 6160.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 5276.5 L155.5 6202 Q155.5 6206
+                159.5 6206
+                L166 6206 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6203 L174, 6206 L166, 6209 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 6250.5 Q117 6254.5
+                121 6254.5
+                L129 6254.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 6251.5 L137, 6254.5 L129, 6257.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6269.5 L155.5 6299 Q155.5 6303
+                159.5 6303
+                L166 6303 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6300 L174, 6303 L166, 6306 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6269.5 L155.5 6362.5 Q155.5 6366.5
+                159.5 6366.5
+                L166 6366.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6363.5 L174, 6366.5 L166, 6369.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 6396.5 L204 6417.5 Q204 6421.5
+                208 6421.5
+                L216 6421.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 6418.5 L224, 6421.5 L216, 6424.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 6396.5 L204 6466 Q204 6470
+                208 6470
+                L216 6470 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 6467 L224, 6470 L216, 6473 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M242.5, 6485 L242.5 6514.5 Q242.5 6518.5
+                246.5 6518.5
+                L253 6518.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M253, 6515.5 L261, 6518.5 L253, 6521.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M204, 6396.5 L204 6578 Q204 6582
+                208 6582
+                L216 6582 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M216, 6579 L224, 6582 L216, 6585 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M254, 6612 L254 6633 Q254 6637
+                258 6637
+                L266 6637 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M266, 6634 L274, 6637 L266, 6640 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M254, 6612 L254 6681.5 Q254 6685.5
+                258 6685.5
+                L266 6685.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M266, 6682.5 L274, 6685.5 L266, 6688.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M254, 6612 L254 6730 Q254 6734
+                258 6734
+                L266 6734 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M266, 6731 L274, 6734 L266, 6737 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M368.6, 6582 L753.4 6582  Q757.4 6582
+                757.4 6586
+                L757.4 6629 Q757.4 6637
+                761.4 6637
+                L769.4 6637 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M769.4, 6634 L777.4, 6637 L769.4, 6640 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M368.6, 6582 L753.4 6582  Q757.4 6582
+                757.4 6586
+                L757.4 6677.5 Q757.4 6685.5
+                761.4 6685.5
+                L769.4 6685.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M769.4, 6682.5 L777.4, 6685.5 L769.4, 6688.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M368.6, 6582 L753.4 6582  Q757.4 6582
+                757.4 6586
+                L757.4 6726 Q757.4 6734
+                761.4 6734
+                L769.4 6734 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M769.4, 6731 L777.4, 6734 L769.4, 6737 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M368.6, 6582 L753.4 6582  Q757.4 6582
+                757.4 6586
+                L757.4 6774.5 Q757.4 6782.5
+                761.4 6782.5
+                L769.4 6782.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M769.4, 6779.5 L777.4, 6782.5 L769.4, 6785.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M568.2, 6366.5 L1256.8 6366.5  Q1260.8 6366.5
+                1260.8 6370.5
+                L1260.8 6413.5 Q1260.8 6421.5
+                1264.8 6421.5
+                L1272.8 6421.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M1272.8, 6418.5 L1280.8, 6421.5 L1272.8, 6424.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M568.2, 6366.5 L1256.8 6366.5  Q1260.8 6366.5
+                1260.8 6370.5
+                L1260.8 6462 Q1260.8 6470
+                1264.8 6470
+                L1272.8 6470 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M1272.8, 6467 L1280.8, 6470 L1272.8, 6473 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6269.5 L155.5 6828.5 Q155.5 6832.5
+                159.5 6832.5
+                L166 6832.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6829.5 L174, 6832.5 L166, 6835.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6269.5 L155.5 6877 Q155.5 6881
+                159.5 6881
+                L166 6881 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6878 L174, 6881 L166, 6884 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6269.5 L155.5 6925.5 Q155.5 6929.5
+                159.5 6929.5
+                L166 6929.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 6926.5 L174, 6929.5 L166, 6932.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 6974 Q117 6978
+                121 6978
+                L129 6978 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 6975 L137, 6978 L129, 6981 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7022.5 Q155.5 7026.5
+                159.5 7026.5
+                L166 7026.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7023.5 L174, 7026.5 L166, 7029.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7071 Q155.5 7075
+                159.5 7075
+                L166 7075 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7072 L174, 7075 L166, 7078 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M192.5, 7090 L192.5 7119.5 Q192.5 7123.5
+                196.5 7123.5
+                L211 7123.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M229.5, 7138.5 L229.5 7168 Q229.5 7172
+                233.5 7172
+                L240 7172 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M240, 7169 L248, 7172 L240, 7175 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7216.5 Q155.5 7220.5
+                159.5 7220.5
+                L166 7220.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7217.5 L174, 7220.5 L166, 7223.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7265 Q155.5 7269
+                159.5 7269
+                L166 7269 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7266 L174, 7269 L166, 7272 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7313.5 Q155.5 7317.5
+                159.5 7317.5
+                L166 7317.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7314.5 L174, 7317.5 L166, 7320.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7362 Q155.5 7366
+                159.5 7366
+                L166 7366 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7363 L174, 7366 L166, 7369 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 6993 L155.5 7410.5 Q155.5 7414.5
+                159.5 7414.5
+                L166 7414.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7411.5 L174, 7414.5 L166, 7417.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 7459 Q117 7463
+                121 7463
+                L129 7463 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 7460 L137, 7463 L129, 7466 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7478 L155.5 7507.5 Q155.5 7511.5
+                159.5 7511.5
+                L166 7511.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7508.5 L174, 7511.5 L166, 7514.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7478 L155.5 7556 Q155.5 7560
+                159.5 7560
+                L166 7560 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7557 L174, 7560 L166, 7563 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7478 L155.5 7604.5 Q155.5 7608.5
+                159.5 7608.5
+                L166 7608.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7605.5 L174, 7608.5 L166, 7611.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7478 L155.5 7653 Q155.5 7657
+                159.5 7657
+                L166 7657 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7654 L174, 7657 L166, 7660 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 7701.5 Q117 7705.5
+                121 7705.5
+                L129 7705.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 7702.5 L137, 7705.5 L129, 7708.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7720.5 L155.5 7750 Q155.5 7754
+                159.5 7754
+                L166 7754 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7751 L174, 7754 L166, 7757 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7720.5 L155.5 7798.5 Q155.5 7802.5
+                159.5 7802.5
+                L166 7802.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7799.5 L174, 7802.5 L166, 7805.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 4654.5 L117 7847 Q117 7851
+                121 7851
+                L129 7851 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 7848 L137, 7851 L129, 7854 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M155.5, 7866 L155.5 7895.5 Q155.5 7899.5
+                159.5 7899.5
+                L166 7899.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M166, 7896.5 L174, 7899.5 L166, 7902.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 3897 L68.5 7944 Q68.5 7948
+                72.5 7948
+                L79 7948 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 7945 L87, 7948 L79, 7951 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 8007.5 Q25 8011.5
+                29 8011.5
+                L42 8011.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 8008.5 L50, 8011.5 L42, 8014.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8026.5 L68.5 8056 Q68.5 8060
+                72.5 8060
+                L79 8060 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8057 L87, 8060 L79, 8063 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M105.5, 8075 L105.5 8104.5 Q105.5 8108.5
+                109.5 8108.5
+                L116 8108.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8105.5 L124, 8108.5 L116, 8111.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M142.5, 8123.5 L142.5 8153 Q142.5 8157
+                146.5 8157
+                L161 8157 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M142.5, 8123.5 L142.5 8201.5 Q142.5 8205.5
+                146.5 8205.5
+                L161 8205.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M68.5, 8026.5 L68.5 8285 Q68.5 8289
+                72.5 8289
+                L79 8289 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M79, 8286 L87, 8289 L79, 8292 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 8319 L117 8340 Q117 8344
+                121 8344
+                L129 8344 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 8341 L137, 8344 L129, 8347 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M117, 8319 L117 8388.5 Q117 8392.5
+                121 8392.5
+                L129 8392.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M129, 8389.5 L137, 8392.5 L129, 8395.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M354.2, 8392.5 L510.5999999999999 8392.5  Q514.5999999999999 8392.5
+                514.5999999999999 8388.5
+                L514.5999999999999 8247 Q514.5999999999999 8239
+                510.5999999999999 8239
+                L125 8239  Q117 8239
+                117 8243
+                L117 8251"
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M114, 8251 L117, 8259 L120, 8251 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 8437 Q25 8441
+                29 8441
+                L42 8441 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 8438 L50, 8441 L42, 8444 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M25, 40 L25 8485.5 Q25 8489.5
+                29 8489.5
+                L42 8489.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M42, 8486.5 L50, 8489.5 L42, 8492.5 Z" 
+        fill="#333" />
+            </g>
+            <g>
+               <path d="M68.5, 8504.5 L68.5 8534 Q68.5 8538
+                72.5 8538
+                L87 8538 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               false
+            </g>
+            <g>
+               <path d="M105.5, 8553 L105.5 8582.5 Q105.5 8586.5
+                109.5 8586.5
+                L116 8586.5 "
+        style="fill:none; stroke:#444; stroke-width:1" />
+               <path d="M116, 8583.5 L124, 8586.5 L116, 8589.5 Z" 
+        fill="#333" />
+            </g>
+            </svg>
